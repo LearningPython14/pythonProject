@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c419f538-5870-4b93-9a91-32aaa2571f43" name="Changes" comment="">
+    <list default="true" id="c419f538-5870-4b93-9a91-32aaa2571f43" name="Changes" comment="adding commit">
+      <change afterPath="$PROJECT_DIR$/Lab003.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +71,19 @@
       <option name="presentableId" value="Default" />
       <updated>1717403080407</updated>
     </task>
+    <task id="LOCAL-00001" summary="adding commit">
+      <option name="closed" value="true" />
+      <created>1717403412888</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717403412888</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding commit" />
   </component>
 </project>
